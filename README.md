@@ -231,5 +231,3 @@ Além de reforçar conhecimentos em POO, o projeto proporcionou experiência com
 **Peterson Araújo**
 
 Desenvolvedor Java em constante evolução, apaixonado por tecnologia, boas práticas de desenvolvimento e construção de soluções backend.
-
-🔗 GitHub: https://github.com/seu-usuario
